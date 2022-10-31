@@ -6,5 +6,14 @@
 ## Start Page 
 <img src='start_page.png'>
 
-## Log in and Sign up modal windows
-<img src='log_in.png'> <img src='sing_up.png'>
+## All books page
+<img src='all_books.png'>
+
+## Click the button "Show more" + Books have two states "Taken" and "Available"
+<mg src='show_books.png'>
+  
+## Book in status Taken falls into the Waiting Unit, a book in status Available in block List
+<img src='orders.png'>
+  
+## Book description
+<img src='item.png'>
